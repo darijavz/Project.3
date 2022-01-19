@@ -1,1 +1,2 @@
-# Project.3
+# Mano projektas
+Galutinei projekto versijai buvo sukurtas installer ir .exe failai naudotojo patogumui.
